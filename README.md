@@ -1,12 +1,12 @@
 # EX.NO-6-DS-DATA VISUALIZATION USING SEABORN LIBRARY
 
-# Aim:
+## Aim:
   To Perform Data Visualization using seaborn python library for the given datas.
 
-# EXPLANATION:
+## EXPLANATION:
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.
 
-# Algorithm:
+## Algorithm:
 STEP 1:Include the necessary Library.
 
 STEP 2:Read the given Data.
@@ -17,7 +17,7 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 
 STEP 5:Include Necessary parameters in each functions.
 
-# Coding and Output:
+## Coding and Output:
 ```
 import seaborn as sns
 import matplotlib.pyplot as plt
@@ -110,5 +110,5 @@ plt.title('Violin plot of Total bill by day and smoker status')
 ![image](https://github.com/22008837/EXNO-6-DS/assets/120194155/292d2569-76f9-49b6-99e4-61b9c41bf68f)
 
 
-# Result:
+## Result:
 Thus, all the data visualization techniques of seaborn has been implemented.
